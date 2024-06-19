@@ -35,7 +35,10 @@
 ![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/1084ec95-8450-4895-8fef-cdb93bab1fcf)
 
 
-![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/22d9ef6f-1b18-4c8d-989a-86d189ea9d9d) ![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/d8737f8b-9512-4d19-b62b-f058c683154a)
+![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/d8737f8b-9512-4d19-b62b-f058c683154a)
+
+
+![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/22d9ef6f-1b18-4c8d-989a-86d189ea9d9d)
 
 
 ![image](https://github.com/singhadarsh9191/YouTube-Clone-Website/assets/135518627/c6c7897e-ce2c-40eb-ae63-6fe752956e37)
